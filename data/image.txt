@@ -1,0 +1,1 @@
+this folder will hold the directories for the student that you wish to train a model for, each student directiory will hold around 1000 images
