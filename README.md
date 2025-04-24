@@ -146,7 +146,7 @@ The final step is to add the email addresses for the individuals you have traine
 2. In the first column, enter the names of the individuals. Ensure that each name matches exactly with the folder name used during training.  
 3. In the second column, add the email address associated with each person.
 
-### 3.4 How to Use the Rest of the Programme  
+### 3.4 How to Use the Rest of the Program
 
 Once you run the programme, you will be greeted with the menu window. In the bottom-right corner, there is an **Info** button.  
 
