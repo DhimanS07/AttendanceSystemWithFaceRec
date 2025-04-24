@@ -1,0 +1,1 @@
+in this folder, it will hold the models (.h5 files) and the labels for the students (.txt files)
