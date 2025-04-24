@@ -1,0 +1,80 @@
+THE ULTIMATE GUIDE
+
+You will find the guide in: MENU, LOGIN, REGISTER, CONTROL, FACIAL RECOGNITION, and SETTINGS.  
+
+-------------------------------------------------------------------------------------------
+
+<<MENU>>
+  
+At the MENU, you have the option to choose either Login or Register.  
+
+Login: 
+ 
+--> Enter your username or email and password.  
+--> All fields must be filled.  
+--> If you wish to change your username, password, or email, contact your administrator.  
+--> Once successfully logged in, you will be redirected to the CONTROL window.  
+
+Register:  
+
+--> Enter your email.  
+--> Create a password (must be at least 8 characters long).  
+--> Enter the passkey provided by your administrator (contact your administrator if you do not have it).  
+--> All fields must be filled.  
+--> Click Register - your username will be displayed. You can change it if you wish.  
+--> After choosing a username, you will be successfully registered and redirected to the CONTROL window.  
+
+Both Login and Register pages have a "Back" button to return to MENU.  
+
+-------------------------------------------------------------------------------------------
+
+<<CONTROL>>
+  
+Once successfully logged in or registered, you will have access to the CONTROL window.  
+
+Features:
+  
+--> Settings: A button at the top-right directs you to the Settings window, where you can customize the GUI.  
+--> Class Selection: You must choose a class from the dropdown menu to access the facial recognition feature. Without selecting a class, facial recognition will not work.  
+--> Attendance Table: Displays the following fields:  
+  - Student Name  
+  - Date  
+  - Time  
+  - Status  
+  - Class  
+--> Once a class is chosen, the table will display student names.  
+--> Click "Start Registration" to begin the facial recognition system.  
+--> After recognition is completed, the table updates. You can only edit the "Status" column manually.  
+--> Attendance Report:  
+  - You can download the report (saved as an spreadsheet file).  
+  - An automated email is sent after registration.  
+  - You can manually email students who were absent (option located under the "Start Registration" button).  
+
+-------------------------------------------------------------------------------------------
+
+<<FACIAL RECOGNITION>> 
+ 
+--> A new window opens, showing a camera feed detecting faces.  
+--> Below the camera feed, a message "Detecting Faces" is displayed - it changes when a student is detected.  
+--> Students need to be detected three times before being marked in the attendance report.  
+--> Once all students are detected, the window automatically closes and redirects to CONTROL.  
+--> You can stop the registration early by pressing "Leave".
+--> You can switch cameras by choosing an option from the dropdown menu.  
+--> The attendance table updates automatically with the latest data.  
+
+-------------------------------------------------------------------------------------------
+
+<<SETTINGS>> 
+ 
+You can customise the GUI with the following options:
+  
+--> Change font size  
+--> Enable Dark Mode  
+--> Change background colour  
+--> Change text colour  
+--> Restore default settings  
+
+Press "Save Changes" to apply your custom settings.  
+
+
+
